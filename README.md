@@ -4,7 +4,7 @@
 **Hospital Bed Availability Decision System**
 
 ## Group Members
-| Name | Student ID | Role |
+| Name | Role |
 |------|-----------|------|
 | Dilshod Fayzullayev | Logic Designer |
 | Ibroximov Axmadjon | CircuitVerse Designer |
@@ -111,8 +111,6 @@ EEE120_Final_Project_GroupName/
 ├── presentation
 │   └── final_presentation.pdf
 ```
-
-> **Note:** The presentation is available as `presentation/final_presentation.pdf`.
 
 ---
 
