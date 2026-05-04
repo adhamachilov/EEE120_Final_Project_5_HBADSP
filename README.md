@@ -108,11 +108,11 @@ EEE120_Final_Project_GroupName/
 ├── src/
 │   └── main.py
 │
-├── presentation/
-│   └── presentation.pdf
+├── presentation
+│   └── final_presentation.pdf
 ```
 
-> **Note:** The presentation is now available as `presentation/presentation.pdf`.
+> **Note:** The presentation is available as `presentation/final_presentation.pdf`.
 
 ---
 
