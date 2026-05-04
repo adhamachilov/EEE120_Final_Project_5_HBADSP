@@ -6,16 +6,17 @@
 ## Group Members
 | Name | Student ID | Role |
 |------|-----------|------|
-| [Member 1] | [ID] | Logic Designer |
-| [Member 2] | [ID] | CircuitVerse Designer |
-| [Member 3] | [ID] | Python Developer |
-| [Member 4] | [ID] | Documentation Lead / Presenter |
+| Dilshod Fayzullayev | Logic Designer |
+| Ibroximov Axmadjon | CircuitVerse Designer |
+| Ibrohim Saidov | Python Developer |
+| Timur Suyunov | Documentation Lead |
+| Temur Yangibaev | Presentation |
 
 ## Course
 **EEE120 – Digital Design Fundamentals**
 
 ## Instructor
-[Instructor Name]
+Doctor Rajan
 
 ---
 
@@ -108,9 +109,10 @@ EEE120_Final_Project_GroupName/
 │   └── main.py
 │
 ├── presentation/
-│   ├── final_presentation.html
-│   └── final_presentation.pdf
+│   └── presentation.pdf
 ```
+
+> **Note:** The presentation is now available as `presentation/presentation.pdf`.
 
 ---
 
@@ -137,9 +139,3 @@ No dependencies outside the Python standard library are required.
 | `screenshots/circuit_design-whitelist.png` | WAITLIST path screenshot |
 
 ---
-
-## Notes
-
-- `presentation/final_presentation.html` is included as the available presentation resource.
-- `presentation/final_presentation.pdf` is a generated placeholder PDF pointing to the HTML presentation.
-- `demo_video_link.txt` is a placeholder until the demo video link is available.
